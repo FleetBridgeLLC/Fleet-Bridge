@@ -1,0 +1,244 @@
+PROJECT TITLE
+FleetBridge — Industrial Equipment Exchange Platform
+
+OBJECTIVE
+Build a clean, professional industrial equipment brokerage website for FleetBridge. The website should present FleetBridge as a serious marketplace platform connecting buyers and sellers of industrial equipment such as forklifts, trailers, warehouse equipment, and construction machinery.
+
+TECH STACK
+Use the following stack:
+
+• HTML5
+• CSS3
+• Vanilla JavaScript
+• Responsive design (mobile friendly)
+• Single-page layout with modular sections
+• Clean folder structure
+
+Do NOT use heavy frameworks.
+
+The website must run easily as a static site.
+
+BRAND SYSTEM
+
+Primary Brand Colors:
+
+FleetBridge Blue
+#0B3A7A
+
+Industrial Orange
+#F26A00
+
+Dark Graphite
+#1F2937
+
+Concrete Gray
+#6B7280
+
+Light Industrial Background
+#F3F4F6
+
+Typography:
+
+Headings: Montserrat SemiBold
+Body: Inter Regular
+
+Brand Assets:
+
+Logo file: fleetbridge-logo.png
+Favicon: fleetbridge-favicon.png
+
+The header must display the FleetBridge logo.
+
+DESIGN STYLE
+
+The visual style must look like an industrial platform used by logistics or equipment companies.
+
+Design characteristics:
+
+• wide layout
+• strong typography
+• large industrial imagery
+• clean card layouts
+• professional color usage
+• strong section spacing
+
+Avoid playful startup aesthetics.
+
+SITE STRUCTURE
+
+Create the following main sections:
+
+1. HERO SECTION
+
+Large industrial background image.
+
+Headline:
+
+FleetBridge
+Industrial Equipment Exchange
+
+Subheadline:
+
+Connecting buyers and sellers of forklifts, trailers, and industrial equipment.
+
+Two buttons:
+
+Browse Equipment
+Sell Equipment
+
+Buttons should use Industrial Orange.
+
+2. HOW IT WORKS
+
+Three-step visual process:
+
+Step 1
+Submit Equipment or Request Equipment
+
+Step 2
+FleetBridge connects buyers and sellers
+
+Step 3
+Inspection and transaction coordination
+
+Each step should have an icon.
+
+3. EQUIPMENT CATEGORIES
+
+Display category blocks in a grid.
+
+Categories:
+
+Forklifts
+Trailers
+Shipping Containers
+Warehouse Equipment
+Construction Equipment
+
+Each block should include an icon or image.
+
+4. FEATURED EQUIPMENT
+
+Create a grid of equipment listing cards.
+
+Each card must include:
+
+• image
+• equipment title
+• location
+• price
+• view details button
+
+Example cards:
+
+Toyota Electric Forklift
+Frankfort, KY
+$3,950
+
+48' Dry Van Trailer
+Louisville, KY
+$6,500
+
+20' Shipping Container
+Lexington, KY
+$2,200
+
+5. SELL EQUIPMENT SECTION
+
+Headline:
+
+Sell Your Equipment Through FleetBridge
+
+Short explanation:
+
+FleetBridge helps businesses move equipment faster by connecting them with active buyers.
+
+Create a form with the following fields:
+
+Name
+Phone
+Email
+Equipment Type
+Location
+Description
+
+Button:
+
+Submit Equipment
+
+6. REQUEST EQUIPMENT SECTION
+
+Headline:
+
+Looking for Equipment?
+
+Create a buyer request form with fields:
+
+Name
+Company
+Email
+Equipment Needed
+Budget
+Location
+
+Button:
+
+Submit Request
+
+7. ABOUT FLEETBRIDGE
+
+Short professional description of the company.
+
+Example:
+
+FleetBridge is an industrial equipment exchange platform that connects buyers and sellers of forklifts, trailers, and industrial machinery through a streamlined brokerage network.
+
+8. CONTACT SECTION
+
+Include:
+
+Contact email
+Phone placeholder
+Simple contact form
+
+9. FOOTER
+
+Footer should include:
+
+FleetBridge logo
+Navigation links
+Copyright
+
+Example:
+
+© FleetBridge Equipment Exchange
+
+LAYOUT REQUIREMENTS
+
+• Fully responsive design
+• Clean section spacing
+• Grid layouts for listings
+• Hover effects on cards and buttons
+• Smooth scrolling navigation
+
+FILES TO CREATE
+
+index.html
+styles.css
+script.js
+
+ASSETS FOLDER
+
+/images
+
+Include placeholder industrial images.
+
+GOAL
+
+The finished site should look like a legitimate industrial equipment marketplace platform capable of attracting both buyers and sellers.
+
+The design should feel comparable to professional logistics or equipment marketplace websites.
+
+OUTPUT
+
+Generate the full working website including all files and CSS styling.
