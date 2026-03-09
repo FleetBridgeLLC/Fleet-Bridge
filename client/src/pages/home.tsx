@@ -35,13 +35,9 @@ export default function Home() {
       {/* Navigation */}
       <nav className="sticky top-0 z-50 w-full border-b bg-white shadow-sm">
         <div className="container mx-auto flex h-20 items-center justify-between px-4">
-          <div className="flex items-center gap-2">
-            {/* Logo placeholder - using an icon for now */}
-            <div className="bg-primary text-white p-2 rounded">
-              <Truck size={24} />
-            </div>
-            <span className="font-heading text-2xl font-bold text-primary tracking-tight">FleetBridge</span>
-          </div>
+          <a href="#" className="flex items-center gap-2 hover:opacity-90 transition-opacity">
+            <img src="/fleetbridge-logo.png" alt="FleetBridge" className="h-12" />
+          </a>
           <div className="hidden md:flex items-center gap-8 text-sm font-medium text-foreground">
             <a href="#how-it-works" className="hover:text-secondary transition-colors">How it Works</a>
             <a href="#categories" className="hover:text-secondary transition-colors">Categories</a>
@@ -387,11 +383,8 @@ export default function Home() {
         <div className="container mx-auto px-4">
           <div className="grid md:grid-cols-4 gap-8 mb-8">
             <div className="col-span-2">
-              <div className="flex items-center gap-2 mb-4">
-                <div className="bg-secondary text-white p-1.5 rounded">
-                  <Truck size={20} />
-                </div>
-                <span className="font-heading text-xl font-bold text-white tracking-tight">FleetBridge</span>
+              <div className="mb-4">
+                <img src="/fleetbridge-logo.png" alt="FleetBridge" className="h-10" />
               </div>
               <p className="max-w-md text-gray-400 mb-6">
                 The premier industrial equipment exchange platform connecting verified buyers and sellers nationwide.
